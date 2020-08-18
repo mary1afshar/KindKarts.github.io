@@ -1,5 +1,3 @@
-# Visit our website: kindkart.ca
-
 # What is KindKart?
 It's hard to know where your money goes. Ethical shopping is becoming an ever-more complicated devotion with the infinite number of online shopping options. 
 You want to stick to your principals without breaking your budget or wasting time. Welcome to KindKart. It’s our mission 
@@ -11,6 +9,9 @@ KindKart is a chrome extension to help with ethical shopping.
 - view alternative shops, KindKart helps you find alternative shopping options that better fit your principles as a shopper
 - track your shopping and savings
 - help you save with exclusive coupons where you can donate the money saved to charities that support ethical shopping! 
+
+# Visit our website: 
+www.kindkart.ca
 
 
 
